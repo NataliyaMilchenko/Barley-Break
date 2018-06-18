@@ -981,7 +981,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 1925514042149436, guid: 852ca2db57ba97c4ab80df8fe9de376b, type: 2}
   parent: {fileID: 1393803698}
-  startPos: {x: -150, y: 150, z: 0}
+  startPos: {x: -200, y: 200, z: 0}
   distance: 100
   speed: 5
 --- !u!114 &1673086434

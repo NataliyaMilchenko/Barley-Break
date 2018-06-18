@@ -23,8 +23,8 @@ public class GameController : MonoBehaviour
 
     public static bool playing { get; private set; }
 
-    private readonly int fieldCount = 15;
-    private readonly int size = 4;
+    private readonly int fieldCount = 24;
+    private readonly int size = 5;
 
     private int moves = 0;
     public int Moves
